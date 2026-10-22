@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="CareSync%20Data%20Platform%20Architecture.png" alt="CareSync Data Platform Architecture" width="100%">
+  <img src="Agentic%20AI%20Architecture%20Flow.png" alt="Agentic AI Architecture Flow.png" width="100%">
 </p>
 <p align="center">
     A chat application template for interacting with Databricks Agent Serving endpoints, built with ExpressJS, React, Vercel AI SDK, Databricks authentication, and optional Lakebase (database) integration.
